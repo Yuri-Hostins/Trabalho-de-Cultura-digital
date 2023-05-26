@@ -1,6 +1,6 @@
 if (navigator.userAgent) {
   $(window).scroll(function () {
-    $(".timeline .onehalf, .timeline .onehalf--title, .timeline .onehalf--text").each(function () {
+    $(".timeline .onehalf, .timeline .onehalf--title, .timeline .onehalf--text, .timeline .onehalf--aviso").each(function () {
       var scrollTop = $(window).scrollTop(),
         elementOffset = $(this).offset().top,
         distance = elementOffset - scrollTop,

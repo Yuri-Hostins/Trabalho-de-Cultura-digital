@@ -186,6 +186,15 @@ speaker-img.onefourth {
   margin-inline-end: 0px;
 }
 
+.aviso {
+  display: block;
+  color: black;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
 
 .timeline {
   background: -webkit-linear-gradient(left, #eeeff0 0%, #eeeff0 49.5%, #ffffff 49.5%, #ffffff 50.25%, #eeeff0 50.25%);
@@ -231,6 +240,19 @@ speaker-img.onefourth {
   transition: all .5s ease-in;
 }
 
+.timeline .onehalf--aviso{
+	background: #fff;
+	color: #000;
+  padding: 1em;
+  position: relative;
+  border-radius: 3px;
+  border-top: 3px solid red;
+  -webkit-transition: all .5s ease-in;
+  -moz-transition: all .5s ease-in;
+  -ms-transition: all .5s ease-in;
+  transition: all .5s ease-in;
+}
+
 .timeline .left:after {
   content: '';
   width: 0;
@@ -255,6 +277,17 @@ speaker-img.onefourth {
   top: 60%;
 }
 
+.timeline .aviso:after {
+  content: '';
+  width: 0;
+  height: 0;
+  border-top: 15px solid transparent;
+  border-bottom: 15px solid transparent;
+  position: absolute;
+  left: -20px;
+  top: 60%;
+}
+
 
 .marker {
   background: #fff;
@@ -267,7 +300,8 @@ speaker-img.onefourth {
 .left,
 .right,
 .title,
-.text {
+.text,
+.aviso {
   opacity: 1;
 }
 
@@ -286,5 +320,9 @@ speaker-img.onefourth {
 }
 
 .text.move {
+  opacity: 0;
+}
+
+.aviso.move{
   opacity: 0;
 }

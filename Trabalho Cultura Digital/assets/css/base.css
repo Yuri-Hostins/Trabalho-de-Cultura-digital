@@ -23,7 +23,7 @@
   --vermelho: #FF0000;
 
   --bg-main: #F0F4FA;
-  --txt-color: #1B1B1B;
+  --txt-color: red;
   --bg-secondary: #E0E9F5;
   --bg-tertiary: #0C1C31;
 
@@ -84,12 +84,10 @@ body {
   background: var(--bg-main);
   color: var(--txt-color);
   font-family: 'Poppins', sans-serif;
-  text-transform: capitalize;
 }
 
 main, footer{
   text-align: center;
-  text-transform: capitalize;
 }
 
 .container {
