@@ -1,0 +1,120 @@
+@import url('reset.css');
+@import url('preloader.css');
+@import url('bootstrap.css');
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css');
+@import url('cabecalho.css');
+@import url('apresentacao.css');
+@import url('dark.css');
+@import url('sobre.css');
+@import url('cards.css');
+@import url('conteudo.css');
+@import url('curiosidades.css');
+@import url('contato.css');
+@import url('footer.css');
+
+
+
+
+
+:root{
+  --branco: #fff;
+  --preto: #000;
+  --vermelho: #FF0000;
+
+  --bg-main: #F0F4FA;
+  --txt-color: red;
+  --bg-secondary: #E0E9F5;
+  --bg-tertiary: #0C1C31;
+
+  --button-hamburguer-bg: #4a4a4a;
+  --button-hamburguer-border: #333;
+
+  --titulo-menu--bg: #333;
+  --titulo-menu--color: #f2f2f2;
+  --titulo-menu--border: #222;
+
+  --box-shadow--hover--siderbar: #222; /* mudar para cor roxa. */ 
+  --border--siderbar: #333;
+  --bg--siderbar: #404040;
+  --color-font--sidebar: #f2f2f2;
+  --color-font-icon--sidebar: #f2f2f2;
+
+  --color--main: #202020;
+
+  --icon--bg: #4a4a4a;
+  --icon--border: #383838;
+  --icon--hover: #404040;
+
+  --list--border-top: rgba(255,255,255,0.1);
+
+
+  --card-titulo: #999fff;
+  --card-texto: #0009;
+
+  --color-linha: #E2DCC8;
+
+
+  --bg-color: #dbdee1;
+  --bg-curiosidades: #313338;
+
+  
+  --footer-color-text: #878787;
+  --footer-color--hover: #ff5e14;
+  --footer-linha-bg: #ff5e14;
+  --footer-icon-color: #ff5e14;
+  --footer-hr-color: #373636;
+  --footer-bg-copyright: #202020;
+  --footer-bg: #151414;
+
+  --instagram-bg: #FF1493;
+  --linkedin-bg: #3f5f91;
+  --github-bg: #383838;
+
+  --contato-button--bg: #B70404;
+  --contato-sombra-color: #909090;
+  --contato-color-icon: #DB005B;
+  --contato-border-color: #F79327;
+  --contato-button-icon-hover: #ff5e14;
+  --contato-button--bg--hover: #ffffff;
+}
+
+
+body {
+  background: var(--bg-main);
+  color: var(--txt-color);
+  font-family: 'Poppins', sans-serif;
+}
+
+main, footer{
+  text-align: center;
+}
+
+.container {
+  margin: auto;
+  padding: 2em;
+  max-width: 68rem;
+}
+
+.container--linha{
+  display: flex;
+  justify-content: center;
+}
+
+.linha {
+  width: 14%;
+  border-bottom: 1px solid var(--color-linha);
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.titulo--secundario{
+  font-size: 2.45rem;
+  margin-top: 1rem;
+}
+
+.titulo--cards {
+  font-size: 1.50rem;
+  margin-bottom: 1rem;
+  text-transform: capitalize;
+}
