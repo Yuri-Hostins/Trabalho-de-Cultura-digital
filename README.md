@@ -36,5 +36,3 @@ Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato
 - Nome: [ Yuri Hostins Raimundo ]
 - Email: [ YuriVn21@outlook.com ]
 - Instagram: [ https://instagram.com/dev._.yuri ]
-
-Esperamos que o "Trabalho de Cultura Digital" seja útil para você e contribua para o seu aprendizado sobre os diversos aspectos da cultura digital. Obrigado por visitar nosso projeto!
