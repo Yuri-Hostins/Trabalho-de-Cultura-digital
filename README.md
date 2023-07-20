@@ -6,7 +6,7 @@ O "Trabalho de Cultura Digital" é um projeto educacional desenvolvido por Yuri 
 
 O projeto foi desenvolvido utilizando tecnologias web, como HTML, CSS e JavaScript, para criar uma plataforma interativa e informativa.
 
-![Trabalho de Cultura Digital Screenshot](https://github.com/Yuri-Hostins/Trabalho-de-Cultura-digital/assets/107286916/ae9e3104-7efe-4ff0-921b-0ee2a2ade7e0)
+![Trabalho de Cultura Digital Screenshot](https://github.com/Yuri-Hostins/Alguma-Coisa/blob/main/imagens/Trabalho%20de%20Cultura%20Digital.png)
 
 # Conteúdo
 O projeto é composto por várias seções, incluindo:
