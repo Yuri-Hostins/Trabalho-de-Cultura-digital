@@ -1,12 +1,12 @@
 # Trabalho de Cultura Digital
 > Status do projeto: Finalizado
 
-![Trabalho de Cultura Digital Screenshot](https://github.com/Yuri-Hostins/Trabalho-de-Cultura-digital/assets/107286916/ae9e3104-7efe-4ff0-921b-0ee2a2ade7e0)
-
 # Descrição do Projeto
 O "Trabalho de Cultura Digital" é um projeto educacional desenvolvido por Yuri Hostins. O objetivo deste trabalho é fornecer informações relevantes sobre cultura digital, com foco em diversos temas, como redes sociais, segurança web, desenvolvimento web e hackers.
 
 O projeto foi desenvolvido utilizando tecnologias web, como HTML, CSS e JavaScript, para criar uma plataforma interativa e informativa.
+
+![Trabalho de Cultura Digital Screenshot](https://github.com/Yuri-Hostins/Trabalho-de-Cultura-digital/assets/107286916/ae9e3104-7efe-4ff0-921b-0ee2a2ade7e0)
 
 # Conteúdo
 O projeto é composto por várias seções, incluindo:
